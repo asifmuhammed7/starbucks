@@ -1,0 +1,13 @@
+.nav-ul{
+    color: black;
+}
+.nav-ul:hover{
+    color: #006241;
+}
+.navbar-toggler-icon{
+    border-color: transparent !important;
+}
+.footer-links h6:hover{
+    cursor: pointer;
+    color: black;
+}
